@@ -1,5 +1,5 @@
 # Intranet
-Internal operations management for organisation's workflow.
+* Internal operations management for organisation's workflow.
 
 ## Aug 19, 20
 * Projects, Modules and Commits can be added now.
