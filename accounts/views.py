@@ -73,6 +73,7 @@ def feedback(request):
     context = {'feedback_form': feedback_form,}
     return render(request, 'accounts/feedback_form.html', context)
 
+#Feedback Retrieving
 @login_required
 def feedbacktillnow(request):
     if request.method == 'POST':
